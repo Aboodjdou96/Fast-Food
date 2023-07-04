@@ -1,5 +1,8 @@
 # Fast-Food
 
+![FastFood](https://github.com/Aboodjdou96/Fast-Food/assets/121454993/ff84f176-f442-4ca7-bda2-9dbe30edaef4)
+
+
 The provided code is a Java program that simulates a fast food menu management system. It allows users to select meals, additions, and drinks from predefined lists and add them to a menu. The program also supports functionalities such as calculating the total price of the selected items, removing items from the menu, clearing the entire menu, and printing the current menu.
 
 The program consists of three classes: Menu, FastFood, and the main class.
